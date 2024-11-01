@@ -1,0 +1,26 @@
+.errorinput {
+color: #D8000C;
+background-color: #FFBABA;
+ }
+
+.ssfwc_button {
+  display: block;
+  width: 300px;
+  height: 25px;
+  line-height: 25px;
+  background: #0073aa;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+
+}
+.ssfwc_button:hover {
+    color: white;
+}
+div>a.ssfwc_button {
+  margin-bottom: 10px !important;
+}
+ 
